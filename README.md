@@ -56,14 +56,14 @@ elmo-hikes/
 ├── index.html
 ├── package.json
 ├── README.md
-```
 
 ---
+
 
 ## Contributors
 
 - **Saba:** BCIT CST Student. I'm trying to understand this git thing. Not so Funny fact: I'm always tired.
-
+- **Sacha Clements** - BCIT CST Student with a passion for fun and web apps
 ---
 
 ## Acknowledgments
