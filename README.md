@@ -62,7 +62,7 @@ elmo-hikes/
 
 ## Contributors
 
-- Saba: BCIT CST Student. I'm trying to understand this git thing. Not so Funny fact: I'm always tired.
+- **Saba:** BCIT CST Student. I'm trying to understand this git thing. Not so Funny fact: I'm always tired.
 
 ---
 
