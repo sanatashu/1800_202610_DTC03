@@ -61,9 +61,10 @@ elmo-hikes/
 
 
 ## Contributors
+- **Alex Harris** - BCIT CST Student with a passion for art and design. Fun fact: Has a pet dog named Jupiter.
 
 - **Saba:** BCIT CST Student. I'm trying to understand this git thing. Not so Funny fact: I'm always tired.
-- **Sacha Clements** - BCIT CST Student with a passion for fun and web apps
+- **Sacha Clements** - BCIT CST student. How is this the industry standard.
 ---
 
 ## Acknowledgments
@@ -92,3 +93,4 @@ elmo-hikes/
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+```
